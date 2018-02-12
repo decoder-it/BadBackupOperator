@@ -1,0 +1,5 @@
+LIBRARY   servicedllsss
+ss
+EXPORTS
+   ServiceMain @1
+   ssssss
