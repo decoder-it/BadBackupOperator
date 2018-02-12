@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  SuBackup.cpp
+SuBackup.cpp(144): warning C4267: 'argomento': conversione da 'size_t' a 'DWORD'. Possibile perdita di dati.
+SuBackup.cpp(124): warning C4477: 'printf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'LPCWSTR'
+  SuBackup.cpp(124): note: provare a usare '%ls' nella stringa di formato
+  SuBackup.cpp(124): note: provare a usare '%lls' nella stringa di formato
+  SuBackup.cpp(124): note: provare a usare '%Ls' nella stringa di formato
+  SuBackup.cpp(124): note: provare a usare '%ws' nella stringa di formato
+SuBackup.cpp(146): warning C4474: 'printf': sono stati passati troppi argomenti per la stringa di formato
+  SuBackup.cpp(146): note: con i segnaposto e i relativi parametri sono previsti argomenti variadic 0, ma sono stati specificati quelli 1
+  Generazione codice in corso...
+  All 76 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  SuBackup.vcxproj -> D:\repogit\BadBackupOperator\SuBackup\x64\Release\SuBackup.exe
+  SuBackup.vcxproj -> D:\repogit\BadBackupOperator\SuBackup\x64\Release\SuBackup.pdb (Full PDB)
